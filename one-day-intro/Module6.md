@@ -1,5 +1,13 @@
 # Module 6
 
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)
+
 In this the final module you will add a `NavigationService` that will ease navigation to a new `CreateIssuePage`. You will add property validation so that you can apply business rules to data entry and finally, you will add a button that will allow the user to create an issue on the default repository.  
 
 ### TOC
@@ -181,3 +189,11 @@ And that's it - the end of the module and the end of the course! In this module 
 * Implemented an MVVM architecture
 * Utilized patterns for loose-coupling such as data-binding, messages and commands.
 * Implemented a custom data input validation approach
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)

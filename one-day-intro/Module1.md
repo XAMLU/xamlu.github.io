@@ -1,4 +1,13 @@
 # Module 1
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)
+
 Welcome to Module 1 of the One Day Introduction to XAML course. We are glad you are here!. This module will walk through a few steps to get started and then we will dive into creating the basic application. 
 
 ### TOC
@@ -248,3 +257,11 @@ In this module, you created the basic UWP application. You modified the app so t
 Congratulations - Module 1 is complete. In the next module you will add authentication to the app and implement some services.
 
 [Start Module 2](./Module2.md)
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)

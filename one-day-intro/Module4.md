@@ -1,5 +1,13 @@
 # Module 4
 
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)
+
 In this module you will explore some patterns for creating better separation of concerns between the UI and Logic and between separate areas of the application. To achieve this you will be using messaging and commands, both of which are implemented in the `MVVMLighLib` package you added earlier.
 
 ### TOC
@@ -259,3 +267,11 @@ In this module you refactored the application to leverage messaging and learnt h
 In the next module, you will add functionality that will display the open and closed issues for the default repository.
 
 [Start Module 5](./Module5.md)
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)

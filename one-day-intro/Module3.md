@@ -1,4 +1,13 @@
 # Module 3
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)
+
 In this module, you will add a Model-View-ViewModel implementation to the application, implement a simple settings service and add a repository search function.
 
 ### TOC
@@ -195,3 +204,11 @@ So in this module the app gained some real functionality! You added the ability 
 In the next module, you will see how to ensure that the app responds approproiately based upon changes to the login status and whether a default repository has been set.
 
 [Start Module 4](./Module4.md)
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)

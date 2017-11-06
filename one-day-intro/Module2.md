@@ -1,4 +1,13 @@
 # Module 2
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)
+
 In this module, you will implement OAuth authentication to GitHub and add some essential services to the app.
 
 ### TOC
@@ -200,3 +209,11 @@ In the last task, you added the ability to login, but right now you need to hit 
 Phew - you covered a lot of ground in this module! You intergrated a 3rd party library, wrapped it with your own service to make it easier to use and then added the ability to save settings. You then added a UI for login and learnt one way to make the UI respond to changes in the application state, and then you learnt how the `Loaded` event can be used to run code when a `Page` is displayed.
 
 [Start Module 3](./Module3.md)
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)

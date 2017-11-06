@@ -1,5 +1,13 @@
 # Module 5
 
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)
+
 In this module, you will add a MasterDetail view from the UWP Toolkit and implement a page that displays the open and closed issues for a repository.
 
 **TOC**
@@ -136,3 +144,11 @@ In this module you implemented the UI and logic to display the open and closed i
 In the next module you will add functionality to create a new issue.
 
 [Start Module 6](./Module6.md)
+
+### Modules
+1. [Module 1](./Module1.md)
+1. [Module 2](./Module2.md)
+1. [Module 3](./Module3.md)
+1. [Module 4](./Module4.md)
+1. [Module 5](./Module5.md)
+1. [Module 6](./Module6.md)
