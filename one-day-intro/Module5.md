@@ -1,3 +1,6 @@
+---
+layout: article
+---
 # Module 5
 
 ### Modules

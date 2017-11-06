@@ -1,3 +1,6 @@
+---
+layout: article
+---
 # Bringing Modern XAML to the Enterprise
 ![](./Images/jerry-nixon.jpg)![](./Images/daren-may.jpg)
 ## One Day Workshop
