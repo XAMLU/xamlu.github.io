@@ -2,4 +2,10 @@
 layout: default
 ---
 
-<h1>My awesome org</h1>
+# XAMLU
+
+### Current Repositories
+
+{% for repository in site.github.public_repositories %}
+* {{ repository.name }}
+{% endfor %}
