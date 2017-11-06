@@ -4,7 +4,9 @@ layout: default
 
 ## Welcome to the XAMLU Site
 
-Oredev attendees - one day intro course materials can be found [here](./one-day-intro/readme.md)
+Welcome Oredev 2017 attendees - navigate to the course materials below:
+
+<a href="./one-day-intro/readme.md" class="btnDark">One Day Intro</a>
 
 ### Current Repositories
 
