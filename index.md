@@ -6,7 +6,7 @@ layout: default
 
 Welcome Oredev 2017 attendees - navigate to the course materials below:
 
-<a href="./one-day-intro/readme.md" class="btnDark">One Day Intro</a>
+<a href="./one-day-intro/readme.html" class="btnDark">One Day Intro</a>
 
 ### Current Repositories
 
