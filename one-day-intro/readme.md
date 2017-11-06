@@ -9,7 +9,7 @@ In this one day course, join Jerry Nixon and Daren May, as they continue trainin
 
 Before you start, please download the source files:
 
-<a href="./Modules.zip" class="btn">Download .zip</a>
+<a href="./Modules.zip" class="btnDark">Download .zip</a>
 
 ### TOC
 1. [Module 1](./Module1.md)
