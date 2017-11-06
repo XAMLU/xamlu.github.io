@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# XAMLU
+Welcome to the XAMLU Site.
+
+Oredev attendees - one day intro course materials can be found [here](./one-day-intro/readme.md)
 
 ### Current Repositories
 
